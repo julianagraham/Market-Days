@@ -1,0 +1,3954 @@
+fileFormatVersion: 2
+guid: c8df39522e8a1144b80080e85365f199
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2216854453772587127
+    second: Crops_05_0
+  - first:
+      213: -3721363637918322772
+    second: Crops_05_1
+  - first:
+      213: 7886892167930489429
+    second: Crops_05_2
+  - first:
+      213: 5033007500350685622
+    second: Crops_05_3
+  - first:
+      213: -2171743105528159495
+    second: Crops_05_4
+  - first:
+      213: -2904987128329853483
+    second: Crops_05_5
+  - first:
+      213: 6109615184882673756
+    second: Crops_05_6
+  - first:
+      213: -1337194755436390999
+    second: Crops_05_7
+  - first:
+      213: 595573489997312670
+    second: Crops_05_8
+  - first:
+      213: -7074646548825233543
+    second: Crops_05_9
+  - first:
+      213: -4161403271416779793
+    second: Crops_05_10
+  - first:
+      213: 1658386543879042303
+    second: Crops_05_11
+  - first:
+      213: 5736223031733029196
+    second: Crops_05_12
+  - first:
+      213: 1788853632360352346
+    second: Crops_05_13
+  - first:
+      213: 1423185562259808188
+    second: Crops_05_14
+  - first:
+      213: 2362802300883929798
+    second: Crops_05_15
+  - first:
+      213: 2164185670388093319
+    second: Crops_05_16
+  - first:
+      213: 1617114928510285288
+    second: Crops_05_17
+  - first:
+      213: -8046872414052521918
+    second: Crops_05_18
+  - first:
+      213: -5284222250875048240
+    second: Crops_05_19
+  - first:
+      213: -1356333505965013372
+    second: Crops_05_20
+  - first:
+      213: -7092769904434397456
+    second: Crops_05_21
+  - first:
+      213: -1208632470803231803
+    second: Crops_05_22
+  - first:
+      213: 2548940926002765567
+    second: Crops_05_23
+  - first:
+      213: 2837678747067291272
+    second: Crops_05_24
+  - first:
+      213: -5391809724140669309
+    second: Crops_05_25
+  - first:
+      213: -3160803703913327597
+    second: Crops_05_26
+  - first:
+      213: -1550543876640540191
+    second: Crops_05_27
+  - first:
+      213: 8535858286820262467
+    second: Crops_05_28
+  - first:
+      213: 7922042704813544911
+    second: Crops_05_29
+  - first:
+      213: 496469131503615954
+    second: Crops_05_30
+  - first:
+      213: -3784312557954605501
+    second: Crops_05_31
+  - first:
+      213: 3319773341732720925
+    second: Crops_05_32
+  - first:
+      213: 1134958680925852490
+    second: Crops_05_33
+  - first:
+      213: 5198194666730273044
+    second: Crops_05_34
+  - first:
+      213: 3024102689570889239
+    second: Crops_05_35
+  - first:
+      213: -1775254109577670367
+    second: Crops_05_36
+  - first:
+      213: -8431335794398446042
+    second: Crops_05_37
+  - first:
+      213: -4930261332151579200
+    second: Crops_05_38
+  - first:
+      213: 833044521570231301
+    second: Crops_05_39
+  - first:
+      213: 4056341113261989840
+    second: Crops_05_40
+  - first:
+      213: 3790036055057318943
+    second: Crops_05_41
+  - first:
+      213: 3797245180234155925
+    second: Crops_05_42
+  - first:
+      213: -1723624967400287575
+    second: Crops_05_43
+  - first:
+      213: 6760254955348139520
+    second: Crops_05_44
+  - first:
+      213: 8020911830787346394
+    second: Crops_05_45
+  - first:
+      213: -1787775659813184494
+    second: Crops_05_46
+  - first:
+      213: 795693349966349296
+    second: Crops_05_47
+  - first:
+      213: -3360567451043885156
+    second: Crops_05_48
+  - first:
+      213: -5441738355679564174
+    second: Crops_05_49
+  - first:
+      213: 8263915418154903311
+    second: Crops_05_50
+  - first:
+      213: -4158362196477389686
+    second: Crops_05_51
+  - first:
+      213: -1511720767520543263
+    second: Crops_05_52
+  - first:
+      213: -9029692273465986875
+    second: Crops_05_53
+  - first:
+      213: 1725066783811964660
+    second: Crops_05_54
+  - first:
+      213: 1781758685077869657
+    second: Crops_05_55
+  - first:
+      213: 6391889101976734909
+    second: Crops_05_56
+  - first:
+      213: -2614455370737376671
+    second: Crops_05_57
+  - first:
+      213: 2255782311933185507
+    second: Crops_05_58
+  - first:
+      213: 2450942981139943529
+    second: Crops_05_59
+  - first:
+      213: 4437048067792546594
+    second: Crops_05_60
+  - first:
+      213: 2697617214358384228
+    second: Crops_05_61
+  - first:
+      213: -3828834180681043395
+    second: Crops_05_62
+  - first:
+      213: 1843926724702022318
+    second: Crops_05_63
+  - first:
+      213: 1406215051276026504
+    second: Crops_05_64
+  - first:
+      213: -4317730397300623735
+    second: Crops_05_65
+  - first:
+      213: -6125272229244930881
+    second: Crops_05_66
+  - first:
+      213: 5562541284640105366
+    second: Crops_05_67
+  - first:
+      213: 4087175085674600294
+    second: Crops_05_68
+  - first:
+      213: 8758624797264584045
+    second: Crops_05_69
+  - first:
+      213: 1358919903531285338
+    second: Crops_05_70
+  - first:
+      213: -7819987070713594360
+    second: Crops_05_71
+  - first:
+      213: 7639085775296086902
+    second: Crops_05_72
+  - first:
+      213: 8257480119616283838
+    second: Crops_05_73
+  - first:
+      213: -511376592837916959
+    second: Crops_05_74
+  - first:
+      213: 3546963716333311795
+    second: Crops_05_75
+  - first:
+      213: 4838332656017444361
+    second: Crops_05_76
+  - first:
+      213: -8717488574353402051
+    second: Crops_05_77
+  - first:
+      213: -8361841213528884597
+    second: Crops_05_78
+  - first:
+      213: 2922111312845886125
+    second: Crops_05_79
+  - first:
+      213: 8587777895375215849
+    second: Crops_05_80
+  - first:
+      213: 2277981977519870772
+    second: Crops_05_81
+  - first:
+      213: 2590863563192935685
+    second: Crops_05_82
+  - first:
+      213: 3629702075462835565
+    second: Crops_05_83
+  - first:
+      213: -3701323727262057346
+    second: Crops_05_84
+  - first:
+      213: -1419892540834580765
+    second: Crops_05_85
+  - first:
+      213: -3476652544653875947
+    second: Crops_05_86
+  - first:
+      213: -6409689525879336089
+    second: Crops_05_87
+  - first:
+      213: 172580649423439755
+    second: Crops_05_88
+  - first:
+      213: -366292296900328520
+    second: Crops_05_89
+  - first:
+      213: -4912682929682973274
+    second: Crops_05_90
+  - first:
+      213: -3042736732391823136
+    second: Crops_05_91
+  - first:
+      213: -661787540678113410
+    second: Crops_05_92
+  - first:
+      213: 411130064413375718
+    second: Crops_05_93
+  - first:
+      213: 5049952462295926006
+    second: Crops_05_94
+  - first:
+      213: 974537459424168988
+    second: Crops_05_95
+  - first:
+      213: -7012756074516117006
+    second: Crops_05_96
+  - first:
+      213: -3833794948144868748
+    second: Crops_05_97
+  - first:
+      213: -5236450373752411430
+    second: Crops_05_98
+  - first:
+      213: -3940593519626743495
+    second: Crops_05_99
+  - first:
+      213: 489561470296396526
+    second: Crops_05_100
+  - first:
+      213: 8593968771742369215
+    second: Crops_05_101
+  - first:
+      213: 4327468781522469993
+    second: Crops_05_102
+  - first:
+      213: 3990474225971206043
+    second: Crops_05_103
+  - first:
+      213: 1717820297139695681
+    second: Crops_05_104
+  - first:
+      213: -7832187937955698319
+    second: Crops_05_105
+  - first:
+      213: -3329024212617032207
+    second: Crops_05_106
+  - first:
+      213: 3616905644946585377
+    second: Crops_05_107
+  - first:
+      213: -6989565122002125939
+    second: Crops_05_108
+  - first:
+      213: 7665112802922370437
+    second: Crops_05_109
+  - first:
+      213: -8719786416295424494
+    second: Crops_05_110
+  - first:
+      213: 8859979549381739858
+    second: Crops_05_111
+  - first:
+      213: 4566527739551876099
+    second: Crops_05_112
+  - first:
+      213: 4462389050496100754
+    second: Crops_05_113
+  - first:
+      213: 4143224134047728874
+    second: Crops_05_114
+  - first:
+      213: 6389971320831686184
+    second: Crops_05_115
+  - first:
+      213: 8313654122312966994
+    second: Crops_05_116
+  - first:
+      213: -5945871387081909524
+    second: Crops_05_117
+  - first:
+      213: 6987512850285187187
+    second: Crops_05_118
+  - first:
+      213: -4042039765458402391
+    second: Crops_05_119
+  - first:
+      213: -1016428259353256537
+    second: Crops_05_120
+  - first:
+      213: 876927637476048239
+    second: Crops_05_121
+  - first:
+      213: 1093152272544260930
+    second: Crops_05_122
+  - first:
+      213: -2775817118454858816
+    second: Crops_05_123
+  - first:
+      213: 1090441158912605108
+    second: Crops_05_124
+  - first:
+      213: -172895441313037268
+    second: Crops_05_125
+  - first:
+      213: -9169606002939347315
+    second: Crops_05_126
+  - first:
+      213: -7578543084040590606
+    second: Crops_05_127
+  - first:
+      213: -2153928518984571052
+    second: Crops_05_128
+  - first:
+      213: -2332056329645307896
+    second: Crops_05_129
+  - first:
+      213: 6958535706194505724
+    second: Crops_05_130
+  - first:
+      213: -3248854835852439099
+    second: Crops_05_131
+  - first:
+      213: 1739562446964213431
+    second: Crops_05_132
+  - first:
+      213: -3361787723491495192
+    second: Crops_05_133
+  - first:
+      213: 1491440751040860490
+    second: Crops_05_134
+  - first:
+      213: -5106332342295359993
+    second: Crops_05_135
+  - first:
+      213: 6736177360627131384
+    second: Crops_05_136
+  - first:
+      213: 3992406474100401051
+    second: Crops_05_137
+  - first:
+      213: 91735265180712959
+    second: Crops_05_138
+  - first:
+      213: 6079842305657662053
+    second: Crops_05_139
+  - first:
+      213: -2890414383989117382
+    second: Crops_05_140
+  - first:
+      213: -862763022407316578
+    second: Crops_05_141
+  - first:
+      213: -2226962833852067279
+    second: Crops_05_142
+  - first:
+      213: 565559697008356056
+    second: Crops_05_143
+  - first:
+      213: -4029373481547429211
+    second: Crops_05_144
+  - first:
+      213: -6804337195694553687
+    second: Crops_05_145
+  - first:
+      213: 2018516160860457501
+    second: Crops_05_146
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crops_05_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 229
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7709bdb5169d3ce10800000000000000
+      internalID: 2216854453772587127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 229
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cafa2d9ec7f0b5cc0800000000000000
+      internalID: -3721363637918322772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 229
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55aae43e3aed37d60800000000000000
+      internalID: 7886892167930489429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 240
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b18742d7a5d8d540800000000000000
+      internalID: 5033007500350685622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f22793e62b6cd1e0800000000000000
+      internalID: -2171743105528159495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 229
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d521da19996fa7d0800000000000000
+      internalID: -2904987128329853483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_6
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 229
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58a349f3a6b9c450800000000000000
+      internalID: 6109615184882673756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_7
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 229
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5d2b66474517de0800000000000000
+      internalID: -1337194755436390999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_8
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 229
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92fde40fe6e34800800000000000000
+      internalID: 595573489997312670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_9
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 241
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97724d9627ec1dd90800000000000000
+      internalID: -7074646548825233543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: febed00d5c9bf36c0800000000000000
+      internalID: -4161403271416779793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 228
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4b23076c5c30710800000000000000
+      internalID: 1658386543879042303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_12
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 229
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c498cde94782b9f40800000000000000
+      internalID: 5736223031733029196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_13
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 229
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a8100a6e843d810800000000000000
+      internalID: 1788853632360352346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfd5ff7abb20c310800000000000000
+      internalID: 1423185562259808188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca89aa8c2c5ac020800000000000000
+      internalID: 2362802300883929798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_16
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 228
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781197f966bb80e10800000000000000
+      internalID: 2164185670388093319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_17
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 229
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e536daa575217610800000000000000
+      internalID: 1617114928510285288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_18
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248628f6c24c35090800000000000000
+      internalID: -8046872414052521918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_19
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dea06e1cdbaaa6b0800000000000000
+      internalID: -5284222250875048240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_20
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 197
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486cefbccd55d2de0800000000000000
+      internalID: -1356333505965013372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_21
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 197
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe3b9cd95b619d90800000000000000
+      internalID: -7092769904434397456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_22
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 197
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb45c1eb231a3fe0800000000000000
+      internalID: -1208632470803231803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_23
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 197
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe99df6448af5320800000000000000
+      internalID: 2548940926002765567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8861f9929c5716720800000000000000
+      internalID: 2837678747067291272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_25
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 208
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38639187f917c25b0800000000000000
+      internalID: -5391809724140669309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_26
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 208
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314d18727c19224d0800000000000000
+      internalID: -3160803703913327597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_27
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9fe203f8c5b7ae0800000000000000
+      internalID: -1550543876640540191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_28
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 198
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3420ffe03e5757670800000000000000
+      internalID: 8535858286820262467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_29
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 196
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5d2e30edfb0fd60800000000000000
+      internalID: 7922042704813544911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 196
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df38317b00d3e600800000000000000
+      internalID: 496469131503615954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_31
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 196
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ed01857cb6b7bc0800000000000000
+      internalID: -3784312557954605501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_32
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d115ac0f344321e20800000000000000
+      internalID: 3319773341732720925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_33
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43d45338ee20cf00800000000000000
+      internalID: 1134958680925852490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_34
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 208
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419b9c71282b32840800000000000000
+      internalID: 5198194666730273044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_35
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e1d20bf55c7f920800000000000000
+      internalID: 3024102689570889239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 196
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12112940bc70d57e0800000000000000
+      internalID: -1775254109577670367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_37
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 197
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e38d024c0edfa80800000000000000
+      internalID: -8431335794398446042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_38
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 197
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cdc247a071349bb0800000000000000
+      internalID: -4930261332151579200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_39
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 198
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504674624919f8b00800000000000000
+      internalID: 833044521570231301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_40
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 165
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df1bc740c40b4830800000000000000
+      internalID: 4056341113261989840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_41
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 165
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f144d9b26b9e89430800000000000000
+      internalID: 3790036055057318943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 162
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597cbec6f5682b430800000000000000
+      internalID: 3797245180234155925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_43
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 163
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a29c1c69347418e0800000000000000
+      internalID: -1723624967400287575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_44
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e9994801041dd50800000000000000
+      internalID: 6760254955348139520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_45
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 176
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adfcec040d0005f60800000000000000
+      internalID: 8020911830787346394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_46
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21cdeba628b8037e0800000000000000
+      internalID: -1787775659813184494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_47
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f382e2d2eeda0b00800000000000000
+      internalID: 795693349966349296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_48
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 165
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f0ac455bddc51d0800000000000000
+      internalID: -3360567451043885156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_49
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 165
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ee91d0ccf0b74b0800000000000000
+      internalID: -5441738355679564174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_50
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 165
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f072ff8e9435fa270800000000000000
+      internalID: 8263915418154903311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_51
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 165
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a845d8f3d978a46c0800000000000000
+      internalID: -4158362196477389686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_52
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 176
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed6b5ca8f9450be0800000000000000
+      internalID: -1511720767520543263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_53
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c078f8f7b610b280800000000000000
+      internalID: -9029692273465986875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_54
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 176
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe00fe991ba0f710800000000000000
+      internalID: 1725066783811964660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_55
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954988b75141ab810800000000000000
+      internalID: 1781758685077869657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_56
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 166
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc8307c54d84b850800000000000000
+      internalID: 6391889101976734909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_57
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 165
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162261a31b697bbd0800000000000000
+      internalID: -2614455370737376671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_58
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 164
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed0361af062e4f10800000000000000
+      internalID: 2255782311933185507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_59
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 133
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960559bd7af730220800000000000000
+      internalID: 2450942981139943529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_60
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 132
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bab1c85bf839d30800000000000000
+      internalID: 4437048067792546594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 132
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e6fc9509cdf6520800000000000000
+      internalID: 2697617214358384228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_62
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 132
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32f1a4499f3ddac0800000000000000
+      internalID: -3828834180681043395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaaa6b92691f69910800000000000000
+      internalID: 1843926724702022318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_64
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 144
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8828d118321e38310800000000000000
+      internalID: 1406215051276026504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_65
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9867df874175414c0800000000000000
+      internalID: -4317730397300623735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_66
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb47a4f4c59aefaa0800000000000000
+      internalID: -6125272229244930881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_67
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 133
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6932b67a3dd123d40800000000000000
+      internalID: 5562541284640105366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_68
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 133
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667167ce51098b830800000000000000
+      internalID: 4087175085674600294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_69
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 133
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d12e119d2ec8970800000000000000
+      internalID: 8758624797264584045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_70
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 133
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5bb030d37adbd210800000000000000
+      internalID: 1358919903531285338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ef7f5f033d97390800000000000000
+      internalID: -7819987070713594360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_72
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 144
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673434df90c730a60800000000000000
+      internalID: 7639085775296086902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_73
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb424953b66789270800000000000000
+      internalID: 8257480119616283838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_74
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6427db2b937e8f0800000000000000
+      internalID: -511376592837916959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_75
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 132
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3371f3715b8593130800000000000000
+      internalID: 3546963716333311795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_76
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 133
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e87138ae5352340800000000000000
+      internalID: 4838332656017444361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_77
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 132
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3793203452450780800000000000000
+      internalID: -8717488574353402051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_78
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 133
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ab36f18b5c4fb80800000000000000
+      internalID: -8361841213528884597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_79
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 101
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2545cc1cc6d8820800000000000000
+      internalID: 2922111312845886125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_80
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 101
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec9acfee7aed2770800000000000000
+      internalID: 8587777895375215849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_81
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 100
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43350de0a840d9f10800000000000000
+      internalID: 2277981977519870772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_82
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 101
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5052e990fa894f320800000000000000
+      internalID: 2590863563192935685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6dd5708eca4f5230800000000000000
+      internalID: 3629702075462835565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_84
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 112
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7cf1d53ea142acc0800000000000000
+      internalID: -3701323727262057346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_85
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6f35cc1478b4ce0800000000000000
+      internalID: -1419892540834580765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_86
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515a2744ee270cfc0800000000000000
+      internalID: -3476652544653875947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_87
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 100
+        width: 98
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7639b6116553c07a0800000000000000
+      internalID: -6409689525879336089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_88
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b878dffaf21256200800000000000000
+      internalID: 172580649423439755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_89
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 112
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b34b4fb81baaeaf0800000000000000
+      internalID: -366292296900328520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_90
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 112
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6adfe1a67e4a2dbb0800000000000000
+      internalID: -4912682929682973274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_91
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8a0c0201706c5d0800000000000000
+      internalID: -3042736732391823136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_92
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 100
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e770a11fcbbd0d6f0800000000000000
+      internalID: -661787540678113410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_93
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 101
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ecb7d58d90a4b500800000000000000
+      internalID: 411130064413375718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_94
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 68
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f402c73209051640800000000000000
+      internalID: 5049952462295926006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_95
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 69
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c0a41f7a0468d00800000000000000
+      internalID: 974537459424168988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_96
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 69
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f90102618fadae90800000000000000
+      internalID: -7012756074516117006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_97
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 69
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47253269ecf9bcac0800000000000000
+      internalID: -3833794948144868748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_98
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 69
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adaa68401246457b0800000000000000
+      internalID: -5236450373752411430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931117272133059c0800000000000000
+      internalID: -3940593519626743495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_100
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 80
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee21cbc30954bc600800000000000000
+      internalID: 489561470296396526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_101
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5018aa019e34770800000000000000
+      internalID: 8593968771742369215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_102
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9644d3bcde14e0c30800000000000000
+      internalID: 4327468781522469993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_103
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 69
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b979d548a23016730800000000000000
+      internalID: 3990474225971206043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_104
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 69
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140b7f6757ce6d710800000000000000
+      internalID: 1717820297139695681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_105
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 69
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1792d00319a7e4390800000000000000
+      internalID: -7832187937955698319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_106
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd8946dd1eecc1d0800000000000000
+      internalID: -3329024212617032207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_107
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12775295584d13230800000000000000
+      internalID: 3616905644946585377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_108
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b7a98cd83100f90800000000000000
+      internalID: -6989565122002125939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_109
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5859c759b73ff5a60800000000000000
+      internalID: 7665112802922370437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_110
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 70
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e4f6b24781df680800000000000000
+      internalID: -8719786416295424494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_111
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 69
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255cf1e3578f4fa70800000000000000
+      internalID: 8859979549381739858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30405fcd8c09f5f30800000000000000
+      internalID: 4566527739551876099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_113
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 32
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299a96cd2379ded30800000000000000
+      internalID: 4462389050496100754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_114
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 48
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae48dbee560bf7930800000000000000
+      internalID: 4143224134047728874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_115
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8263b1f8f0dbda850800000000000000
+      internalID: 6389971320831686184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_116
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 48
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2532de96068006370800000000000000
+      internalID: 8313654122312966994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_117
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cead2dcd9750c7da0800000000000000
+      internalID: -5945871387081909524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_118
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370d9b87ae1a8f060800000000000000
+      internalID: 6987512850285187187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_119
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 37
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a349dbbf3ac7e7c0800000000000000
+      internalID: -4042039765458402391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_120
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 37
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad949522ebe4e1f0800000000000000
+      internalID: -1016428259353256537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_121
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 37
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d7b754a097b2c00800000000000000
+      internalID: 876927637476048239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_122
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 37
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243696a3338ab2f00800000000000000
+      internalID: 1093152272544260930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_123
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 37
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cbbc05a9015a79d0800000000000000
+      internalID: -2775817118454858816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_124
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb7375e476022f00800000000000000
+      internalID: 1090441158912605108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_125
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 48
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24804d1380c99df0800000000000000
+      internalID: -172895441313037268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_126
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8eb2884ce30fb080800000000000000
+      internalID: -9169606002939347315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_127
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa64c8c73b93d690800000000000000
+      internalID: -7578543084040590606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_128
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 36
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457675a8c65bb12e0800000000000000
+      internalID: -2153928518984571052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_129
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 5
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8084a4bbf1fd2afd0800000000000000
+      internalID: -2332056329645307896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_130
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 5
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff689c5b5fa19060800000000000000
+      internalID: 6958535706194505724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_131
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 5
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1943e6dbfb9e2d0800000000000000
+      internalID: -3248854835852439099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_132
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 5
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b649e334da242810800000000000000
+      internalID: 1739562446964213431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_133
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2350380e78851d0800000000000000
+      internalID: -3361787723491495192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_134
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 16
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4115590679a2b410800000000000000
+      internalID: 1491440751040860490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_135
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e85680ac9a229b0800000000000000
+      internalID: -5106332342295359993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_136
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f36534ae95bb7d50800000000000000
+      internalID: 6736177360627131384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_137
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 5
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9369b71980e76730800000000000000
+      internalID: 3992406474100401051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_138
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 5
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffff876dcb8e54100800000000000000
+      internalID: 91735265180712959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_139
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 5
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56aed175d50ff5450800000000000000
+      internalID: 6079842305657662053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_140
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 5
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e26ac8e6f23e7d0800000000000000
+      internalID: -2890414383989117382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_141
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9bc11c2a99d604f0800000000000000
+      internalID: -862763022407316578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_142
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 16
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13210400a1d3811e0800000000000000
+      internalID: -2226962833852067279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_143
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 16
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dae5774c8549d700800000000000000
+      internalID: 565559697008356056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_144
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa8cf4ca2ac418c0800000000000000
+      internalID: -4029373481547429211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_145
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a506a61f532291a0800000000000000
+      internalID: -6804337195694553687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_05_146
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 5
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a0975f0c5330c10800000000000000
+      internalID: 2018516160860457501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Crops_05_0: 2216854453772587127
+      Crops_05_1: -3721363637918322772
+      Crops_05_10: -4161403271416779793
+      Crops_05_100: 489561470296396526
+      Crops_05_101: 8593968771742369215
+      Crops_05_102: 4327468781522469993
+      Crops_05_103: 3990474225971206043
+      Crops_05_104: 1717820297139695681
+      Crops_05_105: -7832187937955698319
+      Crops_05_106: -3329024212617032207
+      Crops_05_107: 3616905644946585377
+      Crops_05_108: -6989565122002125939
+      Crops_05_109: 7665112802922370437
+      Crops_05_11: 1658386543879042303
+      Crops_05_110: -8719786416295424494
+      Crops_05_111: 8859979549381739858
+      Crops_05_112: 4566527739551876099
+      Crops_05_113: 4462389050496100754
+      Crops_05_114: 4143224134047728874
+      Crops_05_115: 6389971320831686184
+      Crops_05_116: 8313654122312966994
+      Crops_05_117: -5945871387081909524
+      Crops_05_118: 6987512850285187187
+      Crops_05_119: -4042039765458402391
+      Crops_05_12: 5736223031733029196
+      Crops_05_120: -1016428259353256537
+      Crops_05_121: 876927637476048239
+      Crops_05_122: 1093152272544260930
+      Crops_05_123: -2775817118454858816
+      Crops_05_124: 1090441158912605108
+      Crops_05_125: -172895441313037268
+      Crops_05_126: -9169606002939347315
+      Crops_05_127: -7578543084040590606
+      Crops_05_128: -2153928518984571052
+      Crops_05_129: -2332056329645307896
+      Crops_05_13: 1788853632360352346
+      Crops_05_130: 6958535706194505724
+      Crops_05_131: -3248854835852439099
+      Crops_05_132: 1739562446964213431
+      Crops_05_133: -3361787723491495192
+      Crops_05_134: 1491440751040860490
+      Crops_05_135: -5106332342295359993
+      Crops_05_136: 6736177360627131384
+      Crops_05_137: 3992406474100401051
+      Crops_05_138: 91735265180712959
+      Crops_05_139: 6079842305657662053
+      Crops_05_14: 1423185562259808188
+      Crops_05_140: -2890414383989117382
+      Crops_05_141: -862763022407316578
+      Crops_05_142: -2226962833852067279
+      Crops_05_143: 565559697008356056
+      Crops_05_144: -4029373481547429211
+      Crops_05_145: -6804337195694553687
+      Crops_05_146: 2018516160860457501
+      Crops_05_15: 2362802300883929798
+      Crops_05_16: 2164185670388093319
+      Crops_05_17: 1617114928510285288
+      Crops_05_18: -8046872414052521918
+      Crops_05_19: -5284222250875048240
+      Crops_05_2: 7886892167930489429
+      Crops_05_20: -1356333505965013372
+      Crops_05_21: -7092769904434397456
+      Crops_05_22: -1208632470803231803
+      Crops_05_23: 2548940926002765567
+      Crops_05_24: 2837678747067291272
+      Crops_05_25: -5391809724140669309
+      Crops_05_26: -3160803703913327597
+      Crops_05_27: -1550543876640540191
+      Crops_05_28: 8535858286820262467
+      Crops_05_29: 7922042704813544911
+      Crops_05_3: 5033007500350685622
+      Crops_05_30: 496469131503615954
+      Crops_05_31: -3784312557954605501
+      Crops_05_32: 3319773341732720925
+      Crops_05_33: 1134958680925852490
+      Crops_05_34: 5198194666730273044
+      Crops_05_35: 3024102689570889239
+      Crops_05_36: -1775254109577670367
+      Crops_05_37: -8431335794398446042
+      Crops_05_38: -4930261332151579200
+      Crops_05_39: 833044521570231301
+      Crops_05_4: -2171743105528159495
+      Crops_05_40: 4056341113261989840
+      Crops_05_41: 3790036055057318943
+      Crops_05_42: 3797245180234155925
+      Crops_05_43: -1723624967400287575
+      Crops_05_44: 6760254955348139520
+      Crops_05_45: 8020911830787346394
+      Crops_05_46: -1787775659813184494
+      Crops_05_47: 795693349966349296
+      Crops_05_48: -3360567451043885156
+      Crops_05_49: -5441738355679564174
+      Crops_05_5: -2904987128329853483
+      Crops_05_50: 8263915418154903311
+      Crops_05_51: -4158362196477389686
+      Crops_05_52: -1511720767520543263
+      Crops_05_53: -9029692273465986875
+      Crops_05_54: 1725066783811964660
+      Crops_05_55: 1781758685077869657
+      Crops_05_56: 6391889101976734909
+      Crops_05_57: -2614455370737376671
+      Crops_05_58: 2255782311933185507
+      Crops_05_59: 2450942981139943529
+      Crops_05_6: 6109615184882673756
+      Crops_05_60: 4437048067792546594
+      Crops_05_61: 2697617214358384228
+      Crops_05_62: -3828834180681043395
+      Crops_05_63: 1843926724702022318
+      Crops_05_64: 1406215051276026504
+      Crops_05_65: -4317730397300623735
+      Crops_05_66: -6125272229244930881
+      Crops_05_67: 5562541284640105366
+      Crops_05_68: 4087175085674600294
+      Crops_05_69: 8758624797264584045
+      Crops_05_7: -1337194755436390999
+      Crops_05_70: 1358919903531285338
+      Crops_05_71: -7819987070713594360
+      Crops_05_72: 7639085775296086902
+      Crops_05_73: 8257480119616283838
+      Crops_05_74: -511376592837916959
+      Crops_05_75: 3546963716333311795
+      Crops_05_76: 4838332656017444361
+      Crops_05_77: -8717488574353402051
+      Crops_05_78: -8361841213528884597
+      Crops_05_79: 2922111312845886125
+      Crops_05_8: 595573489997312670
+      Crops_05_80: 8587777895375215849
+      Crops_05_81: 2277981977519870772
+      Crops_05_82: 2590863563192935685
+      Crops_05_83: 3629702075462835565
+      Crops_05_84: -3701323727262057346
+      Crops_05_85: -1419892540834580765
+      Crops_05_86: -3476652544653875947
+      Crops_05_87: -6409689525879336089
+      Crops_05_88: 172580649423439755
+      Crops_05_89: -366292296900328520
+      Crops_05_9: -7074646548825233543
+      Crops_05_90: -4912682929682973274
+      Crops_05_91: -3042736732391823136
+      Crops_05_92: -661787540678113410
+      Crops_05_93: 411130064413375718
+      Crops_05_94: 5049952462295926006
+      Crops_05_95: 974537459424168988
+      Crops_05_96: -7012756074516117006
+      Crops_05_97: -3833794948144868748
+      Crops_05_98: -5236450373752411430
+      Crops_05_99: -3940593519626743495
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
