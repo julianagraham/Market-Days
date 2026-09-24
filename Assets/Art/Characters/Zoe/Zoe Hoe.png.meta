@@ -1,0 +1,2036 @@
+fileFormatVersion: 2
+guid: 133ba7c9cfd14f04bb63cd5882bf1ca8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8306090192123276812
+    second: Zoe Hoe_0
+  - first:
+      213: -6778246618913838349
+    second: Zoe Hoe_1
+  - first:
+      213: 4236792275804189643
+    second: Zoe Hoe_2
+  - first:
+      213: -2099549783360958642
+    second: Zoe Hoe_3
+  - first:
+      213: 4618249226678253328
+    second: Zoe Hoe_4
+  - first:
+      213: -1853443881617958857
+    second: Zoe Hoe_5
+  - first:
+      213: -3343873283977979622
+    second: Zoe Hoe_6
+  - first:
+      213: 4795016959938261474
+    second: Zoe Hoe_7
+  - first:
+      213: -4942808110927201888
+    second: Zoe Hoe_8
+  - first:
+      213: -2055470896341047592
+    second: Zoe Hoe_9
+  - first:
+      213: -2934331577088750650
+    second: Zoe Hoe_10
+  - first:
+      213: -6159896071761733371
+    second: Zoe Hoe_11
+  - first:
+      213: -3245477014275153250
+    second: Zoe Hoe_12
+  - first:
+      213: 2720541724373816824
+    second: Zoe Hoe_13
+  - first:
+      213: 1908366145838545285
+    second: Zoe Hoe_14
+  - first:
+      213: -4200099299647372164
+    second: Zoe Hoe_15
+  - first:
+      213: -5469051044115865905
+    second: Zoe Hoe_16
+  - first:
+      213: 4500227564911109172
+    second: Zoe Hoe_17
+  - first:
+      213: 4331040298879840578
+    second: Zoe Hoe_18
+  - first:
+      213: 5388612001408820285
+    second: Zoe Hoe_19
+  - first:
+      213: -8340631341643517047
+    second: Zoe Hoe_20
+  - first:
+      213: 6711146019649526527
+    second: Zoe Hoe_21
+  - first:
+      213: 6857667528768704487
+    second: Zoe Hoe_22
+  - first:
+      213: -116458894122099918
+    second: Zoe Hoe_23
+  - first:
+      213: 8139603578569346606
+    second: Zoe Hoe_24
+  - first:
+      213: 5069588605904998770
+    second: Zoe Hoe_25
+  - first:
+      213: 5110520197151139034
+    second: Zoe Hoe_26
+  - first:
+      213: 1774903651859927558
+    second: Zoe Hoe_27
+  - first:
+      213: 603749970938878577
+    second: Zoe Hoe_28
+  - first:
+      213: 2542477242543298014
+    second: Zoe Hoe_29
+  - first:
+      213: 8935877214583849426
+    second: Zoe Hoe_30
+  - first:
+      213: -1343078893366324614
+    second: Zoe Hoe_31
+  - first:
+      213: -1031140136472952417
+    second: Zoe Hoe_32
+  - first:
+      213: 8303624381389369794
+    second: Zoe Hoe_33
+  - first:
+      213: -2317174471801140316
+    second: Zoe Hoe_34
+  - first:
+      213: -2216714170828571649
+    second: Zoe Hoe_35
+  - first:
+      213: 8373054588702474742
+    second: Zoe Hoe_36
+  - first:
+      213: 4018041717124281532
+    second: Zoe Hoe_37
+  - first:
+      213: 2580803722616317437
+    second: Zoe Hoe_38
+  - first:
+      213: -2673652833956228138
+    second: Zoe Hoe_39
+  - first:
+      213: 3203894816425769123
+    second: Zoe Hoe_40
+  - first:
+      213: -5976921910108574385
+    second: Zoe Hoe_41
+  - first:
+      213: 5107720853152907198
+    second: Zoe Hoe_42
+  - first:
+      213: -3329776315240513522
+    second: Zoe Hoe_43
+  - first:
+      213: -5172036107241126355
+    second: Zoe Hoe_44
+  - first:
+      213: 1121693274761785246
+    second: Zoe Hoe_45
+  - first:
+      213: -6851360556372503062
+    second: Zoe Hoe_46
+  - first:
+      213: 4840736716725116800
+    second: Zoe Hoe_47
+  - first:
+      213: 3355308154531745457
+    second: Zoe Hoe_48
+  - first:
+      213: -4794240650173253270
+    second: Zoe Hoe_49
+  - first:
+      213: 1858774027225658291
+    second: Zoe Hoe_50
+  - first:
+      213: -6316989368496129079
+    second: Zoe Hoe_51
+  - first:
+      213: 3535158472927007257
+    second: Zoe Hoe_52
+  - first:
+      213: 7279044074392628123
+    second: Zoe Hoe_53
+  - first:
+      213: 7644189913608304470
+    second: Zoe Hoe_54
+  - first:
+      213: 5458487727833091933
+    second: Zoe Hoe_55
+  - first:
+      213: -3212762032278678244
+    second: Zoe Hoe_56
+  - first:
+      213: 9056473361621269940
+    second: Zoe Hoe_57
+  - first:
+      213: 1382339302842332431
+    second: Zoe Hoe_58
+  - first:
+      213: 4293215722084368491
+    second: Zoe Hoe_59
+  - first:
+      213: -3018559771190399766
+    second: Zoe Hoe_60
+  - first:
+      213: -1504686606944400426
+    second: Zoe Hoe_61
+  - first:
+      213: 3249420987897356121
+    second: Zoe Hoe_62
+  - first:
+      213: -8946685578393836259
+    second: Zoe Hoe_63
+  - first:
+      213: -4653478706123620041
+    second: Zoe Hoe_64
+  - first:
+      213: 378330475223127820
+    second: Zoe Hoe_65
+  - first:
+      213: 7255438120877915396
+    second: Zoe Hoe_66
+  - first:
+      213: 2853460492613852872
+    second: Zoe Hoe_67
+  - first:
+      213: -8387112580753600154
+    second: Zoe Hoe_68
+  - first:
+      213: -1635261879055890132
+    second: Zoe Hoe_69
+  - first:
+      213: -4094669641632127747
+    second: Zoe Hoe_70
+  - first:
+      213: -1419872883727912052
+    second: Zoe Hoe_71
+  - first:
+      213: -1974176928310945499
+    second: Zoe Hoe_72
+  - first:
+      213: 2645679480934213564
+    second: Zoe Hoe_73
+  - first:
+      213: -1253689811335706632
+    second: Zoe Hoe_74
+  - first:
+      213: -46062992683566370
+    second: Zoe Hoe_75
+  - first:
+      213: -5472396953164525606
+    second: Zoe Hoe_76
+  - first:
+      213: 6728767975092988635
+    second: Zoe Hoe_77
+  - first:
+      213: -7509242639748294778
+    second: Zoe Hoe_78
+  - first:
+      213: -6257091330680972228
+    second: Zoe Hoe_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zoe Hoe_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 271
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e2ddda509254370800000000000000
+      internalID: 8306090192123276812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 271
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fae5afdc94dee1a0800000000000000
+      internalID: -6778246618913838349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_2
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 269
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc37d6a902c1cca30800000000000000
+      internalID: 4236792275804189643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_3
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 269
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f858e8896ecd2e0800000000000000
+      internalID: -2099549783360958642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_4
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 269
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01731600431571040800000000000000
+      internalID: 4618249226678253328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_5
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 271
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7385a011c9e3746e0800000000000000
+      internalID: -1853443881617958857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_6
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 271
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19d29ef6fc2891d0800000000000000
+      internalID: -3343873283977979622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_7
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 271
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1f71d15825b8240800000000000000
+      internalID: 4795016959938261474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_8
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 271
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9b343163e976bb0800000000000000
+      internalID: -4942808110927201888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_9
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 271
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d620713c108973e0800000000000000
+      internalID: -2055470896341047592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_10
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 271
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbc9663af82747d0800000000000000
+      internalID: -2934331577088750650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_11
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 271
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5095155c827a38aa0800000000000000
+      internalID: -6159896071761733371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_12
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 271
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e922f6dc9dfb5f2d0800000000000000
+      internalID: -3245477014275153250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_13
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 271
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f51ee5c84e41c520800000000000000
+      internalID: 2720541724373816824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_14
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 271
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589761016e0eb7a10800000000000000
+      internalID: 1908366145838545285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_15
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 271
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74c627a0ff36b5c0800000000000000
+      internalID: -4200099299647372164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_16
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 271
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce9ef83d070a14b0800000000000000
+      internalID: -5469051044115865905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_17
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 271
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434a2f68025047e30800000000000000
+      internalID: 4500227564911109172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_18
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 191
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24172aa7432fa1c30800000000000000
+      internalID: 4331040298879840578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_19
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 191
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d342160b01238ca40800000000000000
+      internalID: 5388612001408820285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_20
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 192
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98339de3cff104c80800000000000000
+      internalID: -8340631341643517047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_21
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 192
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa9cf86fb7c22d50800000000000000
+      internalID: 6711146019649526527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_22
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 192
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef4dffa8445b2f50800000000000000
+      internalID: 6857667528768704487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_23
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 191
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23bdae8b041426ef0800000000000000
+      internalID: -116458894122099918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_24
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 190
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ecf19445ea5f070800000000000000
+      internalID: 8139603578569346606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_25
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 189
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271d55c2afbca5640800000000000000
+      internalID: 5069588605904998770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_26
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 188
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad427a8ea073ce640800000000000000
+      internalID: 5110520197151139034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_27
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 188
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60297afa779b1a810800000000000000
+      internalID: 1774903651859927558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_28
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 188
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ad6f65663f06800800000000000000
+      internalID: 603749970938878577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_29
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 188
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5de4bd491b84320800000000000000
+      internalID: 2542477242543298014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_30
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 189
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d107cb7bfc920c70800000000000000
+      internalID: 8935877214583849426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_31
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 189
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a725397ccdc6c5de0800000000000000
+      internalID: -1343078893366324614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_32
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 190
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91c1e35287a0b1f0800000000000000
+      internalID: -1031140136472952417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_33
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 191
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c17cf061666c3370800000000000000
+      internalID: 8303624381389369794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_34
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 191
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab80b5481eb7dfd0800000000000000
+      internalID: -2317174471801140316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_35
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 191
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb303fc436ac31e0800000000000000
+      internalID: -2216714170828571649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_36
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 111
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1c09c39c0133470800000000000000
+      internalID: 8373054588702474742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_37
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 111
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4b4e937a3f2c730800000000000000
+      internalID: 4018041717124281532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_38
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 111
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df52d81ef4bd0d320800000000000000
+      internalID: 2580803722616317437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_39
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 111
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d39253c9e645ead0800000000000000
+      internalID: -2673652833956228138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_40
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 111
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8f5ce4c55867c20800000000000000
+      internalID: 3203894816425769123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_41
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 111
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4daab99035bd0da0800000000000000
+      internalID: -5976921910108574385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_42
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 111
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebfb808dd0542e640800000000000000
+      internalID: 5107720853152907198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_43
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 111
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00849c45124ac1d0800000000000000
+      internalID: -3329776315240513522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_44
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 111
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d260666209c3938b0800000000000000
+      internalID: -5172036107241126355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_46
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae55b41cfd31be0a0800000000000000
+      internalID: -6851360556372503062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_47
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f57938560cd2340800000000000000
+      internalID: 4840736716725116800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_49
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 111
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a697fa6978f677db0800000000000000
+      internalID: -4794240650173253270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_51
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 111
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb7ed063ab8558a0800000000000000
+      internalID: -6316989368496129079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_53
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 111
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ba596050c540560800000000000000
+      internalID: 7279044074392628123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_54
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 111
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6573f3cc93e951a60800000000000000
+      internalID: 7644189913608304470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_55
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f025c0ba170cb40800000000000000
+      internalID: 5458487727833091933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_56
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 111
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15da2e14f9f963d0800000000000000
+      internalID: -3212762032278678244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_57
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 111
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd39350a8e0fad70800000000000000
+      internalID: 9056473361621269940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_58
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 31
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f057af0a54e0f2310800000000000000
+      internalID: 1382339302842332431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_59
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 31
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6006fae3f0949b30800000000000000
+      internalID: 4293215722084368491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_60
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 31
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec69e091ebeb16d0800000000000000
+      internalID: -3018559771190399766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_61
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 31
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db8acec0874e1be0800000000000000
+      internalID: -1504686606944400426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_62
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 31
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f125d1c23481d20800000000000000
+      internalID: 3249420987897356121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_63
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 31
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15a9b63edcf6d380800000000000000
+      internalID: -8946685578393836259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_64
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 31
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73148af95c58b6fb0800000000000000
+      internalID: -4653478706123620041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_65
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 31
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07116f0099104500800000000000000
+      internalID: 378330475223127820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_66
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 31
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d71cca78e70b460800000000000000
+      internalID: 7255438120877915396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_67
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 31
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce1cd22337899720800000000000000
+      internalID: 2853460492613852872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_69
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 31
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29c2282cf16e49e0800000000000000
+      internalID: -1635261879055890132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_70
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 31
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4e0f9c7afcc27c0800000000000000
+      internalID: -4094669641632127747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_72
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 31
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52911481b805a94e0800000000000000
+      internalID: -1974176928310945499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_74
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 31
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f70fc842cff99ee0800000000000000
+      internalID: -1253689811335706632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_76
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 31
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adfc2b017f32e04b0800000000000000
+      internalID: -5472396953164525606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_77
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 31
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda2173a2d2616d50800000000000000
+      internalID: 6728767975092988635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_78
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 31
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6871695da9fc9c790800000000000000
+      internalID: -7509242639748294778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoe Hoe_79
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 31
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c959316985a29a0800000000000000
+      internalID: -6257091330680972228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 668ac5e0b4f76e44eaf9426c58f19d56
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Zoe Hoe_0: 8306090192123276812
+      Zoe Hoe_1: -6778246618913838349
+      Zoe Hoe_10: -2934331577088750650
+      Zoe Hoe_11: -6159896071761733371
+      Zoe Hoe_12: -3245477014275153250
+      Zoe Hoe_13: 2720541724373816824
+      Zoe Hoe_14: 1908366145838545285
+      Zoe Hoe_15: -4200099299647372164
+      Zoe Hoe_16: -5469051044115865905
+      Zoe Hoe_17: 4500227564911109172
+      Zoe Hoe_18: 4331040298879840578
+      Zoe Hoe_19: 5388612001408820285
+      Zoe Hoe_2: 4236792275804189643
+      Zoe Hoe_20: -8340631341643517047
+      Zoe Hoe_21: 6711146019649526527
+      Zoe Hoe_22: 6857667528768704487
+      Zoe Hoe_23: -116458894122099918
+      Zoe Hoe_24: 8139603578569346606
+      Zoe Hoe_25: 5069588605904998770
+      Zoe Hoe_26: 5110520197151139034
+      Zoe Hoe_27: 1774903651859927558
+      Zoe Hoe_28: 603749970938878577
+      Zoe Hoe_29: 2542477242543298014
+      Zoe Hoe_3: -2099549783360958642
+      Zoe Hoe_30: 8935877214583849426
+      Zoe Hoe_31: -1343078893366324614
+      Zoe Hoe_32: -1031140136472952417
+      Zoe Hoe_33: 8303624381389369794
+      Zoe Hoe_34: -2317174471801140316
+      Zoe Hoe_35: -2216714170828571649
+      Zoe Hoe_36: 8373054588702474742
+      Zoe Hoe_37: 4018041717124281532
+      Zoe Hoe_38: 2580803722616317437
+      Zoe Hoe_39: -2673652833956228138
+      Zoe Hoe_4: 4618249226678253328
+      Zoe Hoe_40: 3203894816425769123
+      Zoe Hoe_41: -5976921910108574385
+      Zoe Hoe_42: 5107720853152907198
+      Zoe Hoe_43: -3329776315240513522
+      Zoe Hoe_44: -5172036107241126355
+      Zoe Hoe_45: 1121693274761785246
+      Zoe Hoe_46: -6851360556372503062
+      Zoe Hoe_47: 4840736716725116800
+      Zoe Hoe_48: 3355308154531745457
+      Zoe Hoe_49: -4794240650173253270
+      Zoe Hoe_5: -1853443881617958857
+      Zoe Hoe_50: 1858774027225658291
+      Zoe Hoe_51: -6316989368496129079
+      Zoe Hoe_52: 3535158472927007257
+      Zoe Hoe_53: 7279044074392628123
+      Zoe Hoe_54: 7644189913608304470
+      Zoe Hoe_55: 5458487727833091933
+      Zoe Hoe_56: -3212762032278678244
+      Zoe Hoe_57: 9056473361621269940
+      Zoe Hoe_58: 1382339302842332431
+      Zoe Hoe_59: 4293215722084368491
+      Zoe Hoe_6: -3343873283977979622
+      Zoe Hoe_60: -3018559771190399766
+      Zoe Hoe_61: -1504686606944400426
+      Zoe Hoe_62: 3249420987897356121
+      Zoe Hoe_63: -8946685578393836259
+      Zoe Hoe_64: -4653478706123620041
+      Zoe Hoe_65: 378330475223127820
+      Zoe Hoe_66: 7255438120877915396
+      Zoe Hoe_67: 2853460492613852872
+      Zoe Hoe_68: -8387112580753600154
+      Zoe Hoe_69: -1635261879055890132
+      Zoe Hoe_7: 4795016959938261474
+      Zoe Hoe_70: -4094669641632127747
+      Zoe Hoe_71: -1419872883727912052
+      Zoe Hoe_72: -1974176928310945499
+      Zoe Hoe_73: 2645679480934213564
+      Zoe Hoe_74: -1253689811335706632
+      Zoe Hoe_75: -46062992683566370
+      Zoe Hoe_76: -5472396953164525606
+      Zoe Hoe_77: 6728767975092988635
+      Zoe Hoe_78: -7509242639748294778
+      Zoe Hoe_79: -6257091330680972228
+      Zoe Hoe_8: -4942808110927201888
+      Zoe Hoe_9: -2055470896341047592
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
